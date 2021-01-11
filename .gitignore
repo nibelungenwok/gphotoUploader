@@ -1,0 +1,8 @@
+__pycache__
+*.py~
+.*.py*~
+test/
+*.sw*
+*.python-version
+*.pickle
+*.log
